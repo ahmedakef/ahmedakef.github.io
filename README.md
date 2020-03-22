@@ -1,22 +1,30 @@
 ## Summary
 
-An ambitious engineering student who's looking to learn more in computer science , discover new technologies and find smart solutions
+An ambitious software engineer interested in solving challenges and gain new knowledge everyday.
+
+Have a solid background and hands-on experience in software engineering by internships I got while studying and projects I worked on.
 
 ### Experience
+
+##### Production Engineer Intern @ Facebook
+
+Responsible for delivering a complete project going through all the SDLC from design, prototyping,
+implementation, testing, deployment and communicating with the customer.
+The challenge in the project was its scale as it was monitoring all the devices' firmware in the Facebook fleet
+by making heavy calls to lots of services, processing the data then drawing charts with the Inferred
+information.
 
 ##### Software Engineering Intern @ inmobly
 
 - Learn micro-service architecture to contribute with the backed team.
 - Learn elastic search and Apply it as a search engine in one of micro-services.
 - Learn NoSQL, MongoDB and use MongoDB as a data store.
-- Write python scripts to extract and clean data then do some analytics on it. .
+- Write python scripts to extract and clean data then do some analytics on it.
 - Write shell script to check status of some services and restart it if down.
-- Read enormous code base and re factor some component of the system 
+- Read enormous code base and re factor some component of the system
 - learned about code structure and repository, strategy and factory design patterns
 - learn docker, docker compose and use them to dockerise my service
-- learn Redis cache and use it 
-- Dealt with Amazon S3
-
+- learn Redis cache and use it
 
 ##### Coordinator ( volunteering ) @ CATReloaaded
 _2015 - Present_
@@ -52,9 +60,9 @@ System that predict disasters using data science, integrate with django as backe
 [GitHub Link](https://github.com/ahmedakef/sstc)
 My own implementation of source code management system (SCM)the main feature of the system is to record every change when you commit and let you checkout to this commit at any time
 
-- Web app that manages courses for students and lists them and their dependencies 
+- Path Builder 
 [GitHub Link](https://github.com/ahmedakef/PathBuilder)
-Web app that manages courses for students and lists them and their dependencies using graph theory ,topology sort and Django
+Web app that manages courses for students and lists them and their dependencies  using graph theory ,topology sort and Django
 
 - Web server using python
 [GitHub Link](https://github.com/ahmedakef/resturant)
@@ -76,6 +84,8 @@ web server used to manage restaurants without any frameworks just python and its
 _2015 - 2020_
 
 I have participated in lots of activities like:
-- CAT (Computer Assistance Team) : which is a non-profit foundation concentrated on Computer Science, and IT specially the Open Source technologies.
-- Fun Science : which tries get better ways for education and make it more fun.
-- Ten In Black : which tries to spread awareness about robotics in EgyptGPA : 2.8
+- CAT (Computer Assistance Team) : non-profit foundation concentrated on Computer Science, I was the coordinator of the team and supervised the learning process of its member and organized events that connect students with the industry.
+
+- Fun Science : tries get better ways for education and make it more fun.
+
+- Ten In Black : tries to spread awareness about robotics in Egypt
