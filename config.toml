@@ -1,0 +1,10 @@
+baseURL = "https://ahmedakef.github.io"
+languageCode = "en-us"
+title = "ahmed akef"
+theme = "mini"
+
+[author]
+    name = "Ahmed Akef"
+    github = "ahmedakef"
+    linkedin = "ahmedakef4"
+    twitter = "ahmed_akef_"
