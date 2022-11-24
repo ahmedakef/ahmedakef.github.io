@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ahmed Akef</title>
+    
+    
+    
+    <link>https://ahmedakef.github.io/</link>
+    <description>Recent content on Ahmed Akef</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&lt;p&gt;Copyright © 2022 Ahmed Akef&lt;/p&gt;&lt;p xmlns:dct=&#39;http://purl.org/dc/terms/&#39; xmlns:cc=&#39;http://creativecommons.org/ns#&#39; class=&#39;license-text&#39;&gt;&lt;a rel=&#39;cc:attributionURL&#39; property=&#39;dct:title&#39; href=&#39;https://github.com/ahmedakef/ahmedakef.github.io&#39;&gt;Content&lt;/a&gt; licensed under &lt;a rel=&#39;license&#39; href=&#39;https://creativecommons.org/licenses/by/4.0&#39;&gt;CC BY 4.0&lt;/a&gt;&lt;/p&gt;</copyright>
+    <lastBuildDate>Sat, 20 Aug 2022 06:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="https://ahmedakef.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>https://ahmedakef.github.io/about/</link>
+      <pubDate>Sat, 20 Aug 2022 06:00:00 +0200</pubDate>
+      
+      <guid>https://ahmedakef.github.io/about/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          السلام عليكم
+Hello,
+There is lots of times where I am stuck in some areas during programming and I found this article for this unkown developer about a solution to the same problem I faced. this is a try to do the same for the community to help anyone who faces the same problem I face -but I hope that I don&amp;rsquo;t face any :&amp;lsquo;D-.
+Oh, I am interested in system programming, distributed systems and infrastructure engineering.
+          
+        
+        </description>
+    </item>
+    
+    <item>
+      <title>Who am I ?</title>
+      <link>https://ahmedakef.github.io/posts/who-am-i/</link>
+      <pubDate>Sat, 03 Sep 2022 11:34:53 +0200</pubDate>
+      
+      <guid>https://ahmedakef.github.io/posts/who-am-i/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          I am ahmed, what a simple and beautiful name.
+but this site is still under development, I will puplish to it soon.
+          
+        
+        </description>
+    </item>
+    
+  </channel>
+</rss>

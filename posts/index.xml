@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Ahmed Akef</title>
+    
+    
+    
+    <link>https://ahmedakef.github.io/posts/</link>
+    <description>Recent content in Posts on Ahmed Akef</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&lt;p&gt;Copyright © 2022 Ahmed Akef&lt;/p&gt;&lt;p xmlns:dct=&#39;http://purl.org/dc/terms/&#39; xmlns:cc=&#39;http://creativecommons.org/ns#&#39; class=&#39;license-text&#39;&gt;&lt;a rel=&#39;cc:attributionURL&#39; property=&#39;dct:title&#39; href=&#39;https://github.com/ahmedakef/ahmedakef.github.io&#39;&gt;Content&lt;/a&gt; licensed under &lt;a rel=&#39;license&#39; href=&#39;https://creativecommons.org/licenses/by/4.0&#39;&gt;CC BY 4.0&lt;/a&gt;&lt;/p&gt;</copyright>
+    <lastBuildDate>Sat, 03 Sep 2022 11:34:53 +0200</lastBuildDate>
+    
+	<atom:link href="https://ahmedakef.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Who am I ?</title>
+      <link>https://ahmedakef.github.io/posts/who-am-i/</link>
+      <pubDate>Sat, 03 Sep 2022 11:34:53 +0200</pubDate>
+      
+      <guid>https://ahmedakef.github.io/posts/who-am-i/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          I am ahmed, what a simple and beautiful name.
+but this site is still under development, I will puplish to it soon.
+          
+        
+        </description>
+    </item>
+    
+  </channel>
+</rss>
