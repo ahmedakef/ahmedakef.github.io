@@ -6,6 +6,8 @@ menu: "main"
 weight: 50
 
 ---
+![Ahmed Akef](/img/ahmed_akef.jpg)
+
 السلام عليكم
 
 Hello,
