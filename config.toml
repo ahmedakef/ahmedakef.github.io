@@ -4,6 +4,7 @@ title = "Ahmed Akef"
 theme = "ronu-hugo-theme"
 paginate = 8
 ignoreFiles = [ "LICENSE$" ]
+images = ['img/owl.png']
 googleAnalytics = "G-6K1SEDG5LZ"
 
 [params]
