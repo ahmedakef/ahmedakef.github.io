@@ -27,6 +27,8 @@ googleAnalytics = "G-6K1SEDG5LZ"
 
 [params.comments]
 	enabled = true
+	engine = "cactus"
+	gitHubRepo = "ahmedakef/ahmedakef.github.io"
 	cactusSiteName = "ahmedakef"
 
 
