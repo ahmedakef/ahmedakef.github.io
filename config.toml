@@ -17,10 +17,6 @@ googleAnalytics = "G-6K1SEDG5LZ"
 	url = "/"
 	weight = 1
 
-[[menu.main]]
-	name = "About"
-	url = "/about/"
-	weight = 2
 
 [author]
 	name = "Your Name"
@@ -28,5 +24,9 @@ googleAnalytics = "G-6K1SEDG5LZ"
 	githubURL = "https://github.com/ahmedakef"
 	linkedinURL = "https://www.linkedin.com/in/ahmedakef4"
 	email = "aemed.akef.1@gmail.com"
+
+[params.comments]
+	enabled = true
+	cactusSiteName = "ahmedakef"
 
 

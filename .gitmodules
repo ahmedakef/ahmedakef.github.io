@@ -1,0 +1,3 @@
+[submodule "themes/ronu-hugo-theme"]
+	path = themes/ronu-hugo-theme
+	url = https://github.com/ahmedakef/ronu-hugo-theme.git
