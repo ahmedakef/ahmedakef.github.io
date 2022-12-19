@@ -4,12 +4,12 @@ title = "Ahmed Akef"
 theme = "ronu-hugo-theme"
 paginate = 8
 ignoreFiles = [ "LICENSE$" ]
-images = ['img/owl.png']
 googleAnalytics = "G-6K1SEDG5LZ"
 
 [params]
   mainSections = ["posts"]
-  description = "Ahmed Akef trying to spread the little knowlade he gains."
+  images = ['img/owl.png']
+  description = "Software Engineer trying to be a Site Reliability Engineer :D"
 
 
 [[menu.main]]
@@ -27,8 +27,9 @@ googleAnalytics = "G-6K1SEDG5LZ"
 
 [params.comments]
 	enabled = true
-	engine = "cactus"
+	engine = "giscus"
 	gitHubRepo = "ahmedakef/ahmedakef.github.io"
 	cactusSiteName = "ahmedakef"
 
-
+[social]
+  twitter = 'ahmed_akef_'
