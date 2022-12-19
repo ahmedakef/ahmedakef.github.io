@@ -1,7 +1,6 @@
 ---
 title: "About"
-date: 2022-08-20T06:00:00+02:00
-lastmod: 2022-08-20T06:00:00+02:00
+date: 2022-08-20
 menu: "main"
 weight: 50
 
